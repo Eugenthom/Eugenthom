@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Backend System Developer and Business Systems Developer from Tanzania. I enjoy building secure, scalable, and efficient software solutions that help organizations improve their operations. I am passionate about software engineering, problem-solving, and creating systems that solve real-world challenges.
+
+🔭 What Am I Currently Working On?
+Developing business management systems and web applications
+Improving my backend development skills
+Building scalable and secure database-driven applications
+
+Fun Fact
+I enjoy learning new technologies, solving complex problems, and building systems that create a positive impact.
